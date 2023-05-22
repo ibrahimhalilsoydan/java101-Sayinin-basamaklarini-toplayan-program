@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class BasamakToplami {
     public static void main(String[] args) {
     Scanner input =new Scanner(System.in);
-    System.out.print("sayı gir: ");
+    System.out.print("Sayı giriniz: ");
        int number = input.nextInt();
 
 
